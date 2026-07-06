@@ -62,8 +62,6 @@ const developer = {
                 </a>
                 <br><sub><b>CSS3</b></sub>
             </td>
-        </tr>
-        <tr>
             <td align="center" width="95">
                 <a href="#">
                     <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" />
@@ -76,6 +74,8 @@ const developer = {
                 </a>
                 <br><sub><b>Nodejs</b></sub>
             </td>
+        </tr>
+        <tr>
             <td align="center" width="95">
                 <a href="#">
                     <img src="https://skillicons.dev/icons?i=express" width="48" alt="Expressjs" />
@@ -88,8 +88,6 @@ const developer = {
                 </a>
                 <br><sub><b>MySQL</b></sub>
             </td>
-        </tr>
-        <tr>
             <td align="center" width="95">
                 <a href="#">
                     <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MonogoDB" />
@@ -140,6 +138,18 @@ const developer = {
                 </a>
                 <br><sub><b>Figma</b></sub>
             </td>
+            <td align="center" width="95">
+                <a href="#">
+                    <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
+                </a>
+                <br><sub><b>VS Code</b></sub>
+            </td>
+            <td align="center" width="95">
+                <a href="#">
+                    <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" />
+                </a>
+                <br><sub><b>Vite</b></sub>
+            </td>
         </tr>
     </table>
 </div>
@@ -159,17 +169,24 @@ const developer = {
 <br/>
 
 ## Projects
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://blue-harvesters.vercel.app">
+      <img src="https://github.com/user-attachments/assets/569b0de7-6019-40e1-be9b-07445914a6e1" width="80%" alt="JalVrishti" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://van456-dot.github.io/climateApp">
+      <img src="https://github.com/user-attachments/assets/b73d8da1-fefe-4cbc-aa26-15ee7de4a06f" width="80%" alt="ClimateApp" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/Muneerali199?tab=repositories">
-    <img src="./assets/projects.svg" width="100%" alt="Featured Projects" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Muneerali199/Draftdeckai"><img src="https://img.shields.io/badge/DraftdeckAI-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Muneerali199/thunder"><img src="https://img.shields.io/badge/Thunder-f59e0b?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Muneerali199/uptime"><img src="https://img.shields.io/badge/Uptime-06b6d4?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/van456-dot/Blue_Harvesters"><img src="https://img.shields.io/badge/JalVrishti-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/van456-dot/climateApp"><img src="https://img.shields.io/badge/ClimateApp-f59e0b?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -181,14 +198,10 @@ const developer = {
 ## Connect
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://muneerali.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneerali199)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/muneerali199)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Muneerali199)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muneer.xyz)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muneerali199/)
-
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vanshgoel-pi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-goel-743329307)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xPvJ29ylQJ/)
 </div>
 
 <br/>
