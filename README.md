@@ -162,8 +162,9 @@ const developer = {
 <a href="https://www.github.com/van456-dot" target='_blank' rel='noreferrer' className='border border-[#915EFF] rounded-lg p-3 sm:p-4 hover:border-[#4ade80] transition duration-300 hover:shadow-[0_0_20px_rgba(145,94,255,0.3)]'>
   
 <img src="https://streak-stats.demolab.com?user=van456-dot&theme=dark&hide_border=true" alt="GitHub Streak" className='w-full h-auto' />
-
+  
 </a>
+
 </div>
 
 <br/>
